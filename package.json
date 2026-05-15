@@ -16,7 +16,7 @@
     "clsx": "^2.1.1",
     "tailwind-merge": "^2.5.4",
     "class-variance-authority": "^0.7.1",
-    "react-scripts": "^5.0.0"
+    "mathjs": "^12.4.0"
   },
   "devDependencies": {
     "@vitejs/plugin-react": "^4.3.4",
