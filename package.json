@@ -1,5 +1,5 @@
 {
-  "name": "mathflow-studio-pro",
+  "name": "mathflow-studio-lit-ai",
   "private": true,
   "version": "0.1.0",
   "type": "module",
@@ -15,7 +15,8 @@
     "framer-motion": "^12.23.26",
     "clsx": "^2.1.1",
     "tailwind-merge": "^2.5.4",
-    "class-variance-authority": "^0.7.1"
+    "class-variance-authority": "^0.7.1",
+    "react-scripts": "^5.0.0"
   },
   "devDependencies": {
     "@vitejs/plugin-react": "^4.3.4",
